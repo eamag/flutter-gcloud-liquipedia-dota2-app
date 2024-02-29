@@ -1,0 +1,8 @@
+fastapi[all]
+uvicorn
+aiolimiter
+firebase-admin
+aiohttp
+python-dotenv
+beautifulsoup4
+apscheduler
